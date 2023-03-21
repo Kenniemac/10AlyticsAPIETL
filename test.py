@@ -1,4 +1,4 @@
-def github_learning():
+def add_nums():
     #add 2 numbers
     var1 = 5
     var2 = 10
@@ -6,4 +6,4 @@ def github_learning():
     print(f'The sum of the numbers is {sum_of_num}')
 
 
-github_learning()
+add_nums()
