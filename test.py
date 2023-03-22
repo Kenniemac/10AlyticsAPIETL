@@ -13,4 +13,4 @@ def mult_nums():
     print(f'The multiplication of the numbers is {mult_of_num}')
 
 
-mult_nums()
+  
